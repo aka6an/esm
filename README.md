@@ -23,3 +23,5 @@
 📄Email Security Market, https://bit.ly/49omX91
 
 📄 2025 Gartner Magic Quadrant for Email Security, https://bit.ly/3MFvigN
+
+https://esm.o365pti.net/
